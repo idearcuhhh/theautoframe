@@ -279,6 +279,14 @@ local PaidFormsList = {
         rebirthReq = 13,
         formOwned = false,
         GamePassID = 6950465
+    }, {
+        name = "Blanco",
+        reqvalue = 120000000,
+        endrangevalue = 100000000000000000000000,
+        alignment = "Neutral",
+        rebirthReq = 24,
+        formOwned = false,
+        GamePassID = 676684901
     }}
 }
 
@@ -428,6 +436,12 @@ local FormsList = {
         endrangevalue = 120000002,
         alignment = "Evil",
         rebirthReq = 20
+    }, {
+        name = "Beast",
+        reqvalue = 120000001,
+        endrangevalue = 12000000000000000000000000000000000,
+        alignment = "Neutral",
+        rebirthReq = 24
     }}, -- close evil
 
     Good = {{
@@ -568,6 +582,12 @@ local FormsList = {
         endrangevalue = 120000002,
         alignment = "Good",
         rebirthReq = 20
+    }, {
+        name = "Beast",
+        reqvalue = 120000001,
+        endrangevalue = 12000000000000000000000000000000000,
+        alignment = "Neutral",
+        rebirthReq = 24
     }}
 }
 
