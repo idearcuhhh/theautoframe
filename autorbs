@@ -403,12 +403,6 @@ local FormsList = {
         alignment = "Evil",
         rebirthReq = 3
     }, {
-        name = "Ultra Instinct Omen",
-        reqvalue = 5000001,
-        endrangevalue = 8000000,
-        alignment = "Neutral",
-        rebirthReq = 3
-    }, {
         name = "Godly SSJ2",
         reqvalue = 8000001,
         endrangevalue = 14000000,
@@ -548,12 +542,6 @@ local FormsList = {
         endrangevalue = 5000000,
         alignment = "Good",
         rebirthReq = 2
-    }, {
-        name = "Ultra Instinct Omen",
-        reqvalue = 5000001,
-        endrangevalue = 8000000,
-        alignment = "Neutral",
-        rebirthReq = 3
     }, {
         name = "Godly SSJ2",
         reqvalue = 8000001,
