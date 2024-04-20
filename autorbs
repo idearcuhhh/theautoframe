@@ -274,14 +274,14 @@ local PaidFormsList = {
     }, {
         name = "SSJB4",
         reqvalue = 50000001,
-        endrangevalue = 100000000000000000000000,
+        endrangevalue = 120000000,
         alignment = "Neutral",
         rebirthReq = 13,
         formOwned = false,
         GamePassID = 6950465
     }, {
         name = "Blanco",
-        reqvalue = 120000000,
+        reqvalue = 120000001,
         endrangevalue = 100000000000000000000000,
         alignment = "Neutral",
         rebirthReq = 24,
