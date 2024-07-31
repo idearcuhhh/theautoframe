@@ -1,5 +1,27 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/luca5432/Roblox-ANTI-AFK-SCRIPT/main/Script", true))()
 
+
+_G.charge = true
+
+spawn(function()
+	while _G.charge == true do
+
+    	local args = {
+    	[1] = "Blacknwhite27"
+   		}
+
+   		game:GetService("ReplicatedStorage").Package.Events.cha:InvokeServer(unpack(args))
+    	local args = {
+    	[1] = "Blacknwhite27"
+   		}
+
+   		game:GetService("ReplicatedStorage").Package.Events.cha:InvokeServer(unpack(args))
+   	 	wait ()
+	end
+end)
+
+
+
 local loaded = false
  
    success, err = pcall(function()
